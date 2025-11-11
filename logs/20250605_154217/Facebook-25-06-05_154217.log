@@ -1,0 +1,16 @@
+[2025-06-05 15:42:17] [INFO   ] Current working directory: D:\AutomationFramework 
+[2025-06-05 15:42:17] [INFO   ] Suite name: Facebook 
+[2025-06-05 15:42:44] [INFO   ] Opening Front End URL 
+[2025-06-05 15:42:44] [INFO   ] Entering Username: Automated_User_2111 
+[2025-06-05 15:42:44] [INFO   ] Entering Password:Automated_User_2111 
+[2025-06-05 15:42:44] [INFO   ] Clicking Login button 
+[2025-06-05 15:42:55] [INFO   ] Opening Front End URL 
+[2025-06-05 15:42:55] [INFO   ] Entering Username: user@ 
+[2025-06-05 15:42:56] [INFO   ] Entering Password:pass 
+[2025-06-05 15:42:56] [INFO   ] Clicking Login button 
+[2025-06-05 15:43:08] [INFO   ] Opening Front End URL 
+[2025-06-05 15:43:08] [INFO   ] Entering Username: user@domain 
+[2025-06-05 15:43:09] [INFO   ] Entering Password:password123 
+[2025-06-05 15:43:09] [INFO   ] Clicking Login button 
+[2025-06-05 15:43:17] [INFO   ] Opening Front End URL 
+[2025-06-05 15:43:19] [INFO   ] Opening Front End URL 

@@ -1,0 +1,11 @@
+utils\TakeScreenshot.class
+Pages\Login.class
+utils\BrowserManager.class
+utils\BaseUtils.class
+utils\BaseTest.class
+utils\PropertiesFileManager.class
+utils\Reporter.class
+utils\ReadExcelData.class
+utils\GenerateTestData.class
+utils\Log4j_LoggerUtil.class
+utils\LoggerUtil.class
