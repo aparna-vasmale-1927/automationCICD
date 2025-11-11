@@ -11,12 +11,17 @@ import java.io.IOException;
 
 public class LoginTest extends BaseTest {
 
+
     @Test
     public void loginTest() throws IOException {
 
         Login loginPage = PageFactory.initElements(driver, Login.class);
         openFEUrl();
         loginPage.login("varunbhosale7+0123456789@gmail.com", "Varun@123");
+        logStep("Login Successful");
+
+
+
     }
 
     @DataProvider(name="login_data")
